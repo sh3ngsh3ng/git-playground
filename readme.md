@@ -14,3 +14,5 @@ git push --force-with-lease
 
 
 git reset --hard origin/{branchName}
+
+git checkout -b
